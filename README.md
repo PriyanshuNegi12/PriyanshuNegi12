@@ -38,5 +38,7 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 </p>
 
 <p align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/16016.png" alt="Magic Code"/>
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/16016.png" 
+       alt="Magic Code"
+       style="object-fit: cover; object-position: center; height: 300px; width: 100%"/>
 </p>
