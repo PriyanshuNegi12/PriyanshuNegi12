@@ -28,7 +28,6 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 <p align="center">
   <a href="mailto:priyanshunegi.409@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://www.linkedin.com/in/priyanshu-negi-829368277"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-height="50" width="50"/></a>
 </p>
 
 ---
@@ -39,5 +38,5 @@ height="50" width="50"/></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Magic Code"/>
+  <img src="[https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif](https://github.com/user-attachments/assets/8e4074f6-ded9-4c8e-a665-9b2fa3589609)" alt="Magic Code"/>
 </p>
