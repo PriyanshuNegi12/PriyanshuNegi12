@@ -38,5 +38,5 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 </p>
 
 <p align="center">
-  <img src="https://getwallpapers.com/wallpaper/full/e/4/f/1489565-free-download-dual-monitor-wallpaper-program-3840x1080-for-hd.jpg" alt="Magic Code"/>
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/16016.png" alt="Magic Code"/>
 </p>
